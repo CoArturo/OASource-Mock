@@ -1,0 +1,164 @@
+[
+  {
+    "Client": {
+      "ClientInfo": {
+        "DocumentId": "V53798381",
+        "Name": "Santiago",
+        "LastName": "González",
+        "TaxMethod": "Directo",
+        "Retention": "15%",
+        "IsTaxFree": false,
+        "IsApplyArticles": true,
+        "Currency": {
+          "Code": "USD"
+        }
+      },
+      "GeneralInfo": {
+        "PhoneNumber": "+1234567890",
+        "PhoneNumber2": null,
+        "ReferrerOrAlly": "Company XYZ",
+        "Email": "santiago.gonzalez@example.com",
+        "WebSite": null,
+        "LineBusiness": "Technology",
+        "Address": {
+          "Street": "123 Main Street",
+          "Sector": "Downtown",
+          "State": "California",
+          "Country": "USA",
+          "OthersDetails": "Apartment 101",
+          "GeoLocalitation": null
+        }
+      },
+      "Finances": {
+        "AccountNumber": "9876543210",
+        "Employer": "TechCorp",
+        "Position": "Senior Developer",
+        "ParticipationPorcentage": "25%"
+      },
+      "SocialDiligence": {
+        "LegalRepresentative": "Maria Sanchez",
+        "ComercialRegistration": "XYZ123456",
+        "ComercialExpiration": "2026-05-20",
+        "PoliticallyExposed": false
+      },
+      "FileObj": {
+        "UrlFile": "https://example.com/document.pdf",
+        "FileType": "PDF"
+      },
+      "Contact": {
+        "ContactName": "María",
+        "ContactLastName": "Sanchez",
+        "ContactDocument": "V12345678",
+        "ContactNumber": "+10987654321"
+      }
+    }
+  },
+  {
+    "Client": {
+      "ClientInfo": {
+        "DocumentId": "E54872364",
+        "Name": "Alejandro",
+        "LastName": "Diaz",
+        "TaxMethod": "Retención",
+        "Retention": "10%",
+        "IsTaxFree": false,
+        "IsApplyArticles": false,
+        "Currency": {
+          "Code": "EUR"
+        }
+      },
+      "GeneralInfo": {
+        "PhoneNumber": "+9876543210",
+        "PhoneNumber2": "+1122334455",
+        "ReferrerOrAlly": "Business Partners Inc.",
+        "Email": "alejandro.diaz@example.com",
+        "WebSite": "https://businesspartners.com",
+        "LineBusiness": "Consulting",
+        "Address": {
+          "Street": "456 Elm Street",
+          "Sector": "Business District",
+          "State": "Madrid",
+          "Country": "Spain",
+          "OthersDetails": "Floor 5",
+          "GeoLocalitation": null
+        }
+      },
+      "Finances": {
+        "AccountNumber": "1234567890",
+        "Employer": "Consulting Solutions Ltd.",
+        "Position": "Financial Analyst",
+        "ParticipationPorcentage": "15%"
+      },
+      "SocialDiligence": {
+        "LegalRepresentative": "Juan Pérez",
+        "ComercialRegistration": "ABC987654",
+        "ComercialExpiration": "2025-10-15",
+        "PoliticallyExposed": true
+      },
+      "FileObj": {
+        "UrlFile": "https://example.com/file.docx",
+        "FileType": "DOCX"
+      },
+      "Contact": {
+        "ContactName": "Juan",
+        "ContactLastName": "Pérez",
+        "ContactDocument": "E98765432",
+        "ContactNumber": "+1234567890"
+      }
+    }
+  },
+  {
+    "Client": {
+      "ClientInfo": {
+        "DocumentId": "C67529841",
+        "Name": "Camila",
+        "LastName": "López",
+        "TaxMethod": "Impuesto Único",
+        "Retention": "5%",
+        "IsTaxFree": true,
+        "IsApplyArticles": false,
+        "Currency": {
+          "Code": "USD"
+        }
+      },
+      "GeneralInfo": {
+        "PhoneNumber": "+3344556677",
+        "PhoneNumber2": null,
+        "ReferrerOrAlly": "Legal Partners Ltd.",
+        "Email": "camila.lopez@example.com",
+        "WebSite": null,
+        "LineBusiness": "Legal Services",
+        "Address": {
+          "Street": "789 Oak Avenue",
+          "Sector": "Financial District",
+          "State": "New York",
+          "Country": "USA",
+          "OthersDetails": "Suite 200",
+          "GeoLocalitation": null
+        }
+      },
+      "Finances": {
+        "AccountNumber": "1357924680",
+        "Employer": "Legal Solutions Inc.",
+        "Position": "Legal Advisor",
+        "ParticipationPorcentage": "20%"
+      },
+      "SocialDiligence": {
+        "LegalRepresentative": "Carlos Rodríguez",
+        "ComercialRegistration": "LMN456789",
+        "ComercialExpiration": "2027-03-12",
+        "PoliticallyExposed": false
+      },
+      "FileObj": {
+        "UrlFile": "https://example.com/report.pdf",
+        "FileType": "PDF"
+      },
+      "Contact": {
+        "ContactName": "Carlos",
+        "ContactLastName": "Rodríguez",
+        "ContactDocument": "C45678901",
+        "ContactNumber": "+3322114455"
+      }
+    }
+  }
+]
